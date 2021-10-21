@@ -1,0 +1,15 @@
+{
+  "name": "tdd_groentetuin",
+  "version": "1.0.0",
+  "description": "Eindopdracht: De TDD groentetuin ---------------------------------------------------- In deze opdracht gaan we code schrijven voor een groentetuin. Maar we gaan dat nu \"Test-Driven\" doen. We gaan dus de volgende cyclus herhalen tijdens het schrijven van onze code.",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
